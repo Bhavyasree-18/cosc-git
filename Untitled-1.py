@@ -29,4 +29,4 @@ def calculator():
         return "Invalid operator!"
 
 
-print("result",calculator())
+print(calculator())
